@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a passionate undergraduate student studying Bioinformatics & CS!
+### Hi there 👋 I'm an undergraduate student studying Bioinformatics & CS at UofT :)
 
 # 💫 About Me:
 🔭 I’m currently working on Java project<br>
