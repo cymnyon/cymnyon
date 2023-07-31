@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm an undergraduate student studying Bioinformatics & CS at UofT :)
 
 # 💫 About Me:
-🔭 I’m currently working on Java project<br>
-🌱 I’m currently learning C, Javascript, etc.<br>
+🔭 I’m currently working on OCR project<br>
+🌱 I’m currently studying OpenCV, C, etc.<br>
 📫 How to reach me: soomi.choi@mail.utoronto.ca
 
 
