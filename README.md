@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on OCR project<br>
 🌱 I’m currently studying OpenCV, C, etc.<br>
-📫 How to reach me: soomi.choi@mail.utoronto.ca
+📫 Reach me on: soomi.choi@mail.utoronto.ca
 
 
 ## 🌐 Socials:
